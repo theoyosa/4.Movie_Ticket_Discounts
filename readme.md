@@ -36,19 +36,10 @@ When the program is run, it:
 Two sample runs are shown below:
 
 - Without any discount  
-  ![No Discount](./img/Terminal_example_No_Discounts.png)
+  <img src="./img/Terminal_example_No_Discounts.png" width="300"/>
 
 - With combined discounts  
-  ![With Discount](./img/Terminal_example_With_Discount.png)
-
----
-
-## 📘 ASCII Banner
-
-This project also demonstrates reading from an external file and displaying a custom **ASCII banner** at program startup.
-
-📁 File path:  
-`src/ascii_art.txt`
+  <img src="./img/Terminal_example_With_Discount.png" width="300"/>
 
 ---
 
